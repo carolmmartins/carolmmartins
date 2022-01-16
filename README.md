@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Ana Carolina Monteiro Martins from Brazil. I study Control and Automation Engineering at [UTFPR - Universidade Tecnológica Federal do Paraná](http://portal.utfpr.edu.br/)
 <!--
 **carolmmartins/carolmmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
